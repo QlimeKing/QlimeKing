@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 > `Телеграм -> @QlkHT`
 
 Прочее:
-- Предпочитаю облачный диск `Mega.nz`([Ссылка на профиль](https://mega.nz/C!UXRhjQ4Z))
+- Предпочитаю облачный диск `Mega.nz`([Ссылка на профиль](https://mega.nz/C!TNQCVA4B))
 - В основном общаюсь в Дискорде
 - Опыт работы с серверами майнкрафт (3 года):
 - > сервер BerezaProject [Закрыт/удалён] 1.7.10 моды + плагины |пол года|
